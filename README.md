@@ -2,6 +2,29 @@
 
 ---
 
+## Date: 12-09-2026 (Session 4)
+
+**Today's Work:**
+- Completed Week 4 Category C assignment — 5 LeetCode-style array algorithm problems
+- Created `feature/session_4` branch from `develop`
+- Package structure: `src/main/java/arrays/assigment_problems/`
+- Solved and verified all 5 problems (outputs match sample I/O exactly):
+  1. `ProductExceptSelf.java`     — prefix/suffix two-pass product, O(n), no division
+  2. `MaximumSubarray.java`       — Kadane's algorithm, O(n) time O(1) space
+  3. `ThreeSum.java`              — sort + two-pointer, O(n²), full duplicate avoidance
+  4. `SubarraySumEqualsK.java`    — prefix sum + HashMap, O(n) time O(n) space
+  5. `FindMinInRotatedArray.java` — modified binary search, O(log n)
+- Pushed all solutions to `origin/feature/session_4`
+
+**Next Session Plan:**
+- Continue with next week's assignment problems
+- Create `feature/session_5` branch from `develop`
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 12-09-2026 (Session 2)
 
 **Today's Work:**
